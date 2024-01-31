@@ -1,0 +1,48 @@
+/* Set colors for the page */
+body{
+    background-color:chartreuse;
+    color:hotpink;/* this is the font color*/
+}
+
+/* create styles for the h1 tag */
+
+/* Sample - pick your own colors and settings. Make sure to include the ;
+ at the end of the line */
+
+h1{
+    color: teal;
+    font-family: serif;
+    font-size: larger;
+    text-align: center;
+}
+
+
+/* create styles for the h2 tag */
+h2{
+    color: teal;
+    font-family: serif;
+    font-size: larger;
+    text-align: center;
+}
+
+/* create styles for the h3 tag */
+h3{
+    color: teal;
+    font-family: serif;
+    font-size: larger;
+    text-align: center;
+}
+
+/* create styles for the p tag */
+p{
+    color:blueviolet;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: larger;
+    text-align: justify;
+}
+img{
+    width: 30%;
+    display: block;
+    margin: 10px auto; 
+    /* this set of 3 commands centers. 10px is spacing top and bottom, auto is left and right*/
+}
